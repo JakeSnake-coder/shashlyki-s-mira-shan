@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ru">
 <head>
   <meta charset="UTF-8">
@@ -285,15 +285,15 @@
         <div class="mira-grid">
           <div class="mira-card">
             <h3>Кто такая Мира?</h3>
-            <p>🌿 блогерша, путешественница и ценительница шашлыков</p>
-            <p>🎤 живой звук, истории у костра и тонны обаяния</p>
+            <p>🌿 блогерша, косплеерша и ценительница шашлыков</p>
+            <p>🎤 КАРАОКЕ!!!</p>
             <p>📸 каждый гость попадёт в её сторис (если захочет)</p>
           </div>
           <div class="mira-card">
             <h3>формат встречи</h3>
-            <p>🔥 открытый пикник с мангалами</p>
-            <p>🌳 поляна в сосновом бору (арендована под нас)</p>
-            <p>🎶 диджей-сет и акустика до заката</p>
+            <p>🔥пикник с мангалом</p>
+            <p>🌳просторная поляна </p>
+            <p>🎶пение песен до заката</p>
           </div>
         </div>
 
@@ -303,7 +303,7 @@
           <span>👘🎭</span>
         </div>
         <p style="color:#4f2860; margin-top:1rem; font-size:1.4rem; background: rgba(255,255,240,0.7); padding:0.5rem 2rem; border-radius:40px; width: fit-content;">
-          🥕 приходите в образе — удивите Миру
+           приходите в образе — удивите Миру!
         </p>
       </div>
     </section>
@@ -319,50 +319,50 @@
             <!-- Шашлык из курицы -->
             <div class="menu-item">
               <span class="menu-name">🍗 шашлык из курицы</span>
-              <span class="menu-desc">с сельдереем в маринаде</span>
-              <span class="celery-badge">сельдерей</span>
+              <span class="menu-desc"> курица с сельдереем в маринаде</span>
+              <span class="celery-badge"> #сельдерей</span>
             </div>
             <!-- Шашлык из свинины -->
             <div class="menu-item">
               <span class="menu-name">🥩 шашлык из свинины</span>
-              <span class="menu-desc">с хрустящим сельдереем и травами</span>
-              <span class="celery-badge">сельдерей</span>
+              <span class="menu-desc">свинина с хрустящим сельдереем и травами</span>
+              <span class="celery-badge"> #сельдерей</span>
             </div>
             <!-- Овощи гриль -->
             <div class="menu-item">
               <span class="menu-name">🌽 овощи гриль</span>
               <span class="menu-desc">кабачки, перцы + стебли сельдерея</span>
-              <span class="celery-badge">сельдерей</span>
+              <span class="celery-badge"> #сельдерей</span>
             </div>
             <!-- Сельдерей на мангале (целая позиция) -->
             <div class="menu-item">
               <span class="menu-name">🔥 сельдерей на мангале</span>
               <span class="menu-desc">целые стебли с пряным маслом</span>
-              <span class="celery-badge">звезда вечера</span>
+              <span class="celery-badge"> #звезда вечера</span>
             </div>
             <!-- Бутерброд с сельдереем -->
             <div class="menu-item">
               <span class="menu-name">🥪 бутерброд с сельдереем</span>
-              <span class="menu-desc">бородинский хлеб, сливочный сыр, тонкий сельдерей</span>
-              <span class="celery-badge">сельдерей</span>
+              <span class="menu-desc">белый хлеб, сливочный сыр, тонкий сельдерей</span>
+              <span class="celery-badge"> #сельдерей</span>
             </div>
             <!-- Сельдереевый сок (свежевыжатый) -->
             <div class="menu-item">
               <span class="menu-name">🧃 сельдереевый сок</span>
               <span class="menu-desc">фреш из стеблей и яблока</span>
-              <span class="celery-badge">Detox</span>
+              <span class="celery-badge"> #Detox</span>
             </div>
             <!-- Сельдерей в кляре -->
             <div class="menu-item">
               <span class="menu-name">🥨 сельдерей в кляре</span>
-              <span class="menu-desc">хрустящие палочки с соусом цезарь</span>
-              <span class="celery-badge">сельдерей</span>
+              <span class="menu-desc">хрустящие палочки сельдерея с соусом цезарь</span>
+              <span class="celery-badge"> #сельдерей</span>
             </div>
             <!-- Добавим ещё один сельдерейный штрих (для счёта) -->
             <div class="menu-item">
               <span class="menu-name">🌿 сельдерей по-корейски</span>
               <span class="menu-desc">пряный, острый, в дополнение к мясу</span>
-              <span class="celery-badge">сельдерей</span>
+              <span class="celery-badge"> #сельдерей</span>
             </div>
           </div>
 
@@ -371,15 +371,15 @@
             <div class="drinks-title">НАПИТКИ</div>
             <div class="drink-item">Квас (бочка)</div>
             <div class="drink-item">Вода (газ./негаз.)</div>
-            <div class="drink-item">Сок (яблоко/апельсин)</div>
-            <div class="drink-item">Чай (листовой, травяной)</div>
+            <div class="drink-item">Сок (яблоко/апельсин/мультифрукт)</div>
+            <div class="drink-item">Чай (черный, зеленый)</div>
             <div style="margin-top:2rem; background:#4d805d; border-radius:30px; padding:1rem; color:#fff2b3; font-size:1.4rem; border:3px solid #a2d686;">
-              🥒 все напитки можно дополнить сельдереем (бесплатно)
+              🌿 все напитки можно дополнить сельдереем 
             </div>
           </div>
         </div>
 
-        <!-- БЛОК С БИЛЕТАМИ И ССЫЛКОЙ (вы вставите сами) -->
+     
         <div class="ticket-box">
           <p>🎟️ БИЛЕТЫ НА СОБЫТИЕ</p>
           <!-- именно здесь вы вставите свою ссылку -->
